@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Introduzione}{3}{0}{1}
+\beamer@sectionintoc {2}{Progetto}{4}{0}{2}
+\beamer@sectionintoc {3}{Tecnologie}{5}{0}{3}
+\beamer@sectionintoc {4}{Moduli Odoo}{6}{0}{4}
+\beamer@sectionintoc {5}{Raggiungimento degli obiettivi}{17}{0}{5}
+\beamer@sectionintoc {6}{Conclusioni}{19}{0}{6}
